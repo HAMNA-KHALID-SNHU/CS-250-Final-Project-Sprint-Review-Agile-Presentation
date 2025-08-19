@@ -72,7 +72,9 @@ Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide: The Definitive Guide to
 ## Author
 
 **Hamna Khalid**
+
 Southern New Hampshire University (SNHU)
+
 Course: CS-250 – Software Development Lifecycle
 
 ---
